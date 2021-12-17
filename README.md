@@ -1,1 +1,1 @@
-# XELA-NETWORK
+# XELA-NETWORK is a crypto token which is currently still in the form of a tesnet on the BSC BEP-20 network, this project requires investors to turn XELA NETWORK into a mainnet and create a mining application with additional features to watch ads or watch videos and a shop for buying and selling coins with goods
